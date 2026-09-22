@@ -7,6 +7,6 @@ Each group or individual student was assigned a case study, in which EDA was per
 - **Matplotlib**
 - **Seaborn**
 
-## Data source
+## References
 Cortez, P. (2008). Student Performance [Dataset]. UCI Machine Learning Repository. \
 [doi:org/10.24432/C5TG7T](https://doi.org/10.24432/C5TG7T)
